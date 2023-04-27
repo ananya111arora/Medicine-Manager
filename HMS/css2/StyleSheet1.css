@@ -1,7 +1,7 @@
 ﻿body {
     margin: 0;
     padding: 0;
-    background: url(https://i.ibb.co/VQmtgjh/6845078.png) no-repeat;
+    background: url(https://img.freepik.com/free-photo/abstract-blur-hospital_1203-7869.jpg?w=996&t=st=1682585407~exp=1682586007~hmac=ba67fb0127e2ff1875a8ca57c5a781145aac2fc5f3cf59ab81813e41ede12d78)no-repeat;
     height: 100vh;
     font-family: sans-serif;
     background-size: cover;
@@ -10,7 +10,7 @@
     overflow: hidden
 }
 
-@media screen and (max-width: 600px;) {
+@media screen and (max-width: 600px) {
     body {
         background-size: cover;
         : fixed

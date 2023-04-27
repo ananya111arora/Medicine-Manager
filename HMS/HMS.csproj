@@ -564,6 +564,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="img\App_LocalResources\" />
     <Folder Include="Log\" />
   </ItemGroup>
   <ItemGroup>
